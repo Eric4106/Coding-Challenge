@@ -1,0 +1,31 @@
+body {
+    margin: auto;
+    background-color: #181818;
+    color: #0ff;
+}
+
+nav {
+    text-align: center;
+    font-size: 32px;
+    width: 30%;
+    margin: 20px auto;
+}
+
+a {
+    padding: 8px;
+    color: #0ff;
+}
+
+a:hover {
+    color: #0cc;
+}
+
+#canvas {
+    width: 40%;
+    margin: 40px auto;
+}
+
+#turn {
+    color: #fff;
+    text-align: center;
+}
